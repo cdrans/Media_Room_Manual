@@ -1,0 +1,12 @@
+version: 1
+project:
+  plugins: 
+    - plugins/example-admonition.mjs        # allows to make an example admonition
+    - plugins/exercise-admonition-pdf.mjs   # converts exercises to PDF format
+    - plugins/experiment.mjs                # allows to make an experiment admonition   
+    - plugins/grasple.mjs                   # allows to embed grasple exercises
+    - plugins/h5p.mjs                       # allows to embed h5p exercises 
+    - plugins/lightbox.mjs                  # allows to show images in a kind of gallery
+    - plugins/page-last-updated.mjs         # shows the last updated date of a page
+    - plugins/pyodide.mjs                   # allows to run python code in the browser
+    - plugins/typst_eq.mjs                  # a helper plugin for typst conversion
