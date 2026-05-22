@@ -1,13 +1,15 @@
 version: 1
 project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
-  title: Template for TU Delft JB2  
+  title: TU Delft Media Room Manual  
   # description:
   # keywords: []
-  authors: [Freek Pols]
+  authors: [Calvin Rans, Juliette van der Eng, Jurn de Groot, Tatjana Fincke, Nancy de Groot]
+   license:
+    content: CC-BY-4.0
   # abstract: Optional
-  date: 2026-03-23 
-  github: https://github.com/TUD-JB-Templates/JB2 # Change this URL to your GitHub repository
+  date: 2026-05-22 
+  github: https://github.com/cdrans/Media_Room_Manual # Change this URL to your GitHub repository
 
 extends:
   - plugins.yml
@@ -27,4 +29,4 @@ site:
   
   actions:
     - title: report issue
-      url: https://github.com/TUD-JB-Templates/JB2/issues # Change this URL to your GitHub repository
+      url: https://github.com/cdrans/Media_Room_Manual/issues # Change this URL to your GitHub repository

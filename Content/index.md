@@ -1,5 +1,5 @@
 ---
-title: TUD JB2 Template
+title: TU Delft Media Room Manual 
 site:
   hide_outline: true
   hide_toc: true
@@ -11,17 +11,14 @@ no-update-date: true
 
 +++ { "kind": "split-image" }
 
-## Template for TU Delft Jupyter Book 2 
+## TU Delft Media Room Manual 
 
-a quick setup for your open publishing project.
-
-{button}`Use this template <https://github.com/TUD-JB-Templates/JB2>`  
+Guidance on the use of media room equipment, examples of outputs from the facility, and guidance on best practices.
 
 Originally created by  
-*Freek Pols*
+*The Blended Learning Team*
 
-![](../Figures/Cover.PNG)
-
+![](../Figures/Cover_image.svg)
 +++
 
 
