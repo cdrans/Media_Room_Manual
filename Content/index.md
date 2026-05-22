@@ -18,7 +18,7 @@ Guidance on the use of media room equipment, examples of outputs from the facili
 Originally created by  
 *The Blended Learning Team*
 
-![](../Figures/Cover_image.svg)
+![](../Figures/Cover.png)
 +++
 
 
