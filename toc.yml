@@ -7,3 +7,7 @@ project:
     - file: Content/02_gs_intro.md
       children:
         - file: Content/02_gs_tips.md
+    - file: Content/03_lb_intro.md
+      children:
+        - file: Content/03_lb_tips.md
+    - file: Content/04_pod_intro.md
