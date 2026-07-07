@@ -1,5 +1,14 @@
+(gs_tips)=
 # Tips & Tricks
 Before you step in front of the camera, it is worth pausing to think about *what kind of video you are making* and *how you want your audience to experience it*. The greenscreen station is a powerful tool, but the quality of the recording equipment is only one part of what makes a successful learning video. This chapter covers the habits, decisions, and techniques that separate forgettable recordings from ones that students actually finish watching.
+
+```{figure} ./figures/greenscreen_example.png
+:width: 80%
+:alt: Image of a teacher explaining the concept of a Free Body Diagram to give an example of the look and feel of a Greenscreen video.
+:align: center
+
+Example of the look and feel of a Greenscreen Video.
+```
 
 ---
 
@@ -18,6 +27,7 @@ Think of each greenscreen video not as a lecture captured on film, but as a self
 
 ---
 
+(learn_from_youtubers)=
 ## What We Can Learn from YouTubers
 
 This may seem like an unusual place to look for pedagogical inspiration, but educational content creators on platforms like YouTube have spent years solving exactly the problem you are facing: how do you hold a viewer's attention voluntarily, without the social pressure of a classroom, on a topic they may not yet care about?
@@ -50,6 +60,8 @@ Effective video presenters tend to speak slightly faster, and with slightly more
 YouTubers are unusually explicit about structure: "In this video, we're going to cover X, Y, and Z" at the start, and "So, to summarise what we've looked at…" at the end, are conventions that feel slightly formulaic but genuinely help viewers orient themselves. For academic content — where the material may be genuinely demanding — this kind of scaffolding is even more valuable than it is in casual educational content.
 
 ---
+
+(sec:scripting)=
 ## Scripting Basics
 
 The greenscreen format works best when you know exactly what you are going to say before you start recording. A full script — not just bullet points — is strongly recommended, particularly for your first few recordings. In this section, we will explore the reasoning for this and provide you some useful tips on how to go about scripting a video.

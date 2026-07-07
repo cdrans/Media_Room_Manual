@@ -40,6 +40,7 @@ A useful rule of thumb: if your board plan requires erasing and restarting a sec
 
 ---
 
+(sec:board_plan)=
 ## Planning Your Board
 
 The most important preparation you can do for a lightboard recording is to sketch out your board layout in advance. This is the lightboard equivalent of scripting: it replaces the question *what will I say?* with the equally important question *where will I draw it, and in what order?*

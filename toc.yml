@@ -11,3 +11,5 @@ project:
       children:
         - file: Content/03_lb_tips.md
     - file: Content/04_pod_intro.md
+      children:
+        - file: Content/04_pod_tips.md
