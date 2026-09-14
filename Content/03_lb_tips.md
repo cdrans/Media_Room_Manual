@@ -14,23 +14,23 @@ Example of the look and feel of a Lightboard Video.
 
 ## The Lightboard's Unique Advantage
 
-The lightboard is often described as a glass chalkboard pumped full of light. You stand behind it, write on the glass with fluorescent markers, and the camera records both you and your glowing annotations at the same time — without any post-production compositing. Unlike filming a traditional whiteboard or chalkboard, you never have to turn your back to the camera. Your face, your expressions, and your gestures remain visible throughout.
+The lightboard is often described as a glass chalkboard pumped full of light. You stand behind it, write on the glass with fluorescent markers, and the camera records both you and your glowing annotations at the same time without any post-production compositing. Unlike filming a traditional whiteboard or chalkboard, you never have to turn your back to the camera. Your face, your expressions, and your gestures remain visible throughout.
 
 This matters more than it might initially seem. Research and classroom experience consistently show that humans follow hands and faces closely when learning. We use the speaker's gaze and gestures to decide what is important on a board. A traditional board recording loses this entirely: the teacher faces away, the connection to the viewer is severed, and the viewer is left watching a back and a hand. The lightboard restores that connection.
 
 The result is a format that feels closer to a live tutorial than most educational video formats. It is particularly well-suited to:
 
-- **Subjects involving worked derivations, equations, or diagrams** — anything where the process of building up a result on the board is itself part of the explanation.
-- **Content where spatial relationships matter** — circuit diagrams, graphs, geometric proofs, annotated structures.
-- **Teachers who find the greenscreen station's teleprompter-and-slides approach less natural** — the lightboard is closer to the experience of teaching at a board, and many staff find it easier to settle into.
+- **Subjects involving worked derivations, equations, or diagrams**: anything where the process of building up a result on the board is itself part of the explanation.
+- **Content where spatial relationships matter**: circuit diagrams, graphs, geometric proofs, annotated structures.
+- **Teachers who find the greenscreen station's teleprompter-and-slides approach less natural**: the lightboard is closer to the experience of teaching at a board, and many staff find it easier to settle into.
 
-It is worth being honest about what the lightboard does not offer, however. You cannot display rich slide content behind you. You cannot quickly revise what you have written the way you can update a PowerPoint slide. And the board space is finite — once it is full, you must erase, which takes time and can disrupt the flow of a recording. Planning matters here in a way it does not at a physical chalkboard, where running out of space mid-lecture is a recoverable situation. On video, it is an edit point at best and a distraction at worst.
+It is worth being honest about what the lightboard does not offer, however. You cannot display rich slide content behind you. You cannot quickly revise what you have written the way you can update a PowerPoint slide. And the board space is finite. Once it is full, you must erase, which takes time and can disrupt the flow of a recording. Planning matters here in a way it does not at a physical chalkboard, where running out of space mid-lecture is a recoverable situation. On video, it is an edit point at best and a distraction at worst.
 
 ---
 
 ## What We Can Learn from YouTubers
 
-The principles covered in the greenscreen chapter's section on this topic — the importance of a hook, deliberate pacing and vocal energy, and explicit signposting — apply equally to lightboard recordings. Please refer to that chapter if you have not read it already.
+The principles covered in the greenscreen chapter's section on this topic (the importance of a hook, deliberate pacing and vocal energy, and explicit signposting) apply equally to lightboard recordings. Please refer to that chapter if you have not read it already.
 
 One point from that section deserves particular emphasis here: **shorter is almost always better**. The lightboard format can tempt teachers toward longer recordings, because the act of building up material on the board feels productive and natural. Resist this. A five-minute video covering one concept clearly will be watched more often and more completely than a fifteen-minute one covering three. If you have substantial material, plan a series of short focused videos rather than one long session.
 
@@ -57,21 +57,21 @@ Plan your board space so you have a place where the audience can see your face
 
 Before you record, mentally divide the glass into regions and assign content to each. A common approach is to work from left to right (as the video will be mirrored, this reads naturally for viewers), using one side for a reference diagram or key terms that stay visible throughout, and the other side for working through steps or annotations that build progressively.
 
-Leave a clear vertical band somewhere in the frame — ideally slightly off-centre — where your face will be visible throughout the recording. Avoid drawing horizontal lines through eye or mouth level. The goal is for the viewer to be able to see both you *and* your content clearly at the same time, not to choose between them.
+Leave a clear vertical band somewhere in the frame, ideally slightly off-centre, where your face will be visible throughout the recording. Avoid drawing horizontal lines through eye or mouth level. The goal is for the viewer to be able to see both you *and* your content clearly at the same time, not to choose between them.
 
 ### Rehearse on Paper First
 
-Sketch your planned board layout on paper before entering the studio. Note where each equation, diagram label, or annotation will appear, and in what order you will add them. This does two things: it surfaces spatial problems (running out of room, awkward overlaps) before the camera is rolling, and it gives you a physical reference document to consult during recording — the lightboard equivalent of a script.
+Sketch your planned board layout on paper before entering the studio. Note where each equation, diagram label, or annotation will appear, and in what order you will add them. This does two things: it surfaces spatial problems (running out of room, awkward overlaps) before the camera is rolling, and it gives you a physical reference document to consult during recording (the lightboard equivalent of a script).
 
 ### Use the Slide Image Feature Thoughtfully
 
 The lightboard station supports displaying images from a slide deck as an overlay on top of the lightboard. This can be used for pre-prepared diagrams, images, or structural frameworks that you then annotate live. When using this feature:
 
-- Set your slide background to **black**, not white or a colour. Black will be used as the keying colour, so all black will be removed from your slide and made transparent.
+- Set your slide background to **green** (ideally #00BF00), not white, black, or an other colour. Green will be used as the keying colour, so all green will be removed from your slide and made transparent.
 - Leave generous empty space on the slide for your live writing. If the slide is too dense with pre-prepared content, there will be no visual room for your annotations to register.
 - Treat the slide as scaffolding, not the main event. The live annotation is what the lightboard adds; the slide should support it, not compete with it.
 
-As the slide image overlay places the image in front of the lightboard, you will not ba able to write on top of the image. Furthermore, since **black** is the keying colour, any black in the image will be transparent and will show what is behind the image on the lightboard.
+As the slide image overlay places the image in front of the lightboard, you will not ba able to write on top of the image. Furthermore, since **green** is the keying colour, any pure green in the image will be transparent and will show what is behind the image on the lightboard.
 
 ---
 
@@ -90,15 +90,15 @@ Fluorescent neon markers produce the glowing effect that makes the lightboard di
 
 ### Pointing Effectively
 
-One of the unique advantages of the lightboard is that you can point to your own writing while remaining face-on to the camera. Use this. When you refer to something on the board, point to it directly and look at it briefly — this guides the viewer's attention in a way that verbal reference alone cannot.
+One of the unique advantages of the lightboard is that you can point to your own writing while remaining face-on to the camera. Use this. When you refer to something on the board, point to it directly and look at it briefly. This guides the viewer's attention in a way that verbal reference alone cannot.
 
-When pointing, try to point from the side of the annotation rather than reaching in front of it, so that your hand does not obscure the text. And when you are not actively pointing or writing, let your hands rest naturally or gesture expressively — do not leave a marker hovering near the glass.
+When pointing, try to point from the side of the annotation rather than reaching in front of it, so that your hand does not obscure the text. And when you are not actively pointing or writing, let your hands rest naturally or gesture expressively. Do not leave a marker hovering near the glass.
 
 ### Managing Erasure
 
 Erasing on the lightboard is slower and more visible than on a standard whiteboard. Dry-erase markers smear if wiped with a damp cloth before being wiped with a dry one first. Wet-erase markers require glass cleaner to remove cleanly. Either way, erasing mid-recording creates a pause and a visible change in the frame that will be noticeable to viewers.
 
-The best strategy is to avoid needing to erase at all — which brings you back to board planning. If erasing is unavoidable, it is recommended you either pause the recording to clean the board or edit out the erasing as it is not generally a quick process. Do not try to talk and erase simultaneously.
+The best strategy is to avoid needing to erase at all, which brings you back to board planning. If erasing is unavoidable, it is recommended you either pause the recording to clean the board or edit out the erasing as it is not generally a quick process. Do not try to talk and erase simultaneously.
 
 ---
 
@@ -106,9 +106,9 @@ The best strategy is to avoid needing to erase at all — which brings you back 
 
 Everything said about scripting in the greenscreen chapter applies here too: a prepared script produces better pacing, better language precision, and a more confident delivery than improvised recording. The key difference for the lightboard is that your script and your board plan must be designed together from the start.
 
-As you draft your script, annotate it with board cues — the same way you would mark slide transitions in a greenscreen script. Note when you will begin drawing a diagram, when you will add a label, when you will point to an equation, and when you will erase. This turns your script into a full production plan, and it eliminates the cognitive load of deciding what to write *and* what to say at the same time while the camera is rolling.
+As you draft your script, annotate it with board cues the same way you would mark slide transitions in a greenscreen script. Note when you will begin drawing a diagram, when you will add a label, when you will point to an equation, and when you will erase. This turns your script into a full production plan, and it eliminates the cognitive load of deciding what to write *and* what to say at the same time while the camera is rolling.
 
-One practical difference from the greenscreen station: the lightboard does not lend itself as naturally to a teleprompter, since your gaze will shift between the camera and the board throughout the recording. Many lightboard presenters find that a shorter, more memorised script — or structured notes on a tablet placed near the camera — works better than a full teleprompter read. Experiment with what allows you to deliver naturally while staying connected with the camera.
+One practical difference from the greenscreen station: the lightboard does not lend itself as naturally to a teleprompter, since your gaze will shift between the camera and the board throughout the recording. Many lightboard presenters find that a shorter, more memorised script (or structured notes on a tablet placed near the camera) works better than a full teleprompter read. Experiment with what allows you to deliver naturally while staying connected with the camera.
 
 ---
 
@@ -118,7 +118,7 @@ One practical difference from the greenscreen station: the lightboard does not l
 The clothing recommendations for the Lightboard Station are different from those for the Greenscreen Station. If you are using both stations across a series, please read this section carefully.
 :::
 
-The lightboard works by displaying glowing text and drawings against a dark background. This has direct implications for what you wear — almost the inverse of the greenscreen recommendations.
+The lightboard works by displaying glowing text and drawings against a dark background. This has direct implications for what you wear, which is almost the inverse of the greenscreen recommendations.
 
 ### What Works Well
 
@@ -146,5 +146,5 @@ The lightboard works by displaying glowing text and drawings against a dark back
 
 
 :::{note}
-The green-avoidance rule from the greenscreen chapter does not apply here. Green is perfectly safe to wear at the lightboard station — and in fact, a dark green top is an excellent choice.
+The green-avoidance rule from the greenscreen chapter does not apply here. Green is perfectly safe to wear at the lightboard station. In fact, a dark forest green top is an excellent choice.
 :::

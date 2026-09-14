@@ -20,10 +20,10 @@ A lecture works in a live context because of the social contract in the room: st
 The greenscreen format rewards a different approach entirely:
 
 - **Shorter is almost always better.** A ten-minute video covering one concept clearly will be watched more often and more fully than a forty-minute recording covering five. If your content is substantial, consider breaking it into a short series of focused episodes rather than one long recording.
-- **Structure is visible, not implied.** In a lecture, a skilled speaker guides an audience through transitions naturally. In a video, those transitions need to be made explicit — a brief statement of what the video will cover, clear signposting as you move between points, and a concise closing summary go a long way.
+- **Structure is visible, not implied.** In a lecture, a skilled speaker guides an audience through transitions naturally. In a video, those transitions need to be made explicit. A brief statement of what the video will cover, clear signposting as you move between points, and a concise closing summary go a long way.
 - **Every minute must earn its place.** In a room, a moment of thinking aloud or reviewing notes feels natural. On video, it reads as padding. A tightly scripted and rehearsed greenscreen video will almost always outperform a loosely improvised one of the same length.
 
-Think of each greenscreen video not as a lecture captured on film, but as a self-contained learning object — something more like a section of a textbook than a class session.
+Think of each greenscreen video not as a lecture captured on film, but as a self-contained learning object. It is something more like a section of a textbook than a class session.
 
 ---
 
@@ -36,7 +36,7 @@ A few techniques that translate directly to academic video production:
 
 ### The Hook
 
-The first thirty seconds of a video determine whether most viewers will stay or leave. Experienced video creators open with something that immediately signals *why this matters* — a question the viewer wants answered, a counterintuitive claim, a striking image, or a concrete problem that the video will resolve. This is called a **hook**. You can see an example of this in the first 40 seconds of the video below:
+The first thirty seconds of a video determine whether most viewers will stay or leave. Experienced video creators open with something that immediately signals *why this matters*, such as a question the viewer wants answered, a counterintuitive claim, a striking image, or a concrete problem that the video will resolve. This is called a **hook**. You can see an example of this in the first 40 seconds of the video below:
 
 :::{seealso}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lw4oMXTEAkw?si=dmRIH4VZ6S3oDjpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -48,7 +48,7 @@ A hook does not have to be dramatic or performative. For academic content, it mi
 :::{note}
 **Exploring hooks further**
 
-The [Science Hooks resource series](https://sciencehooks.scoilnet.ie/) — developed by science educators and co-funded by the National University of Ireland, Galway — offers an excellent collection of short video hooks across chemistry, physics, and biology topics. Even if your discipline is different, browsing a few examples is a practical way to develop an instinct for what a well-constructed hook looks and feels like. The resource is freely available and carries a Creative Commons licence.
+The [Science Hooks resource series](https://sciencehooks.scoilnet.ie/), developed by science educators and co-funded by the National University of Ireland, offers an excellent collection of short video hooks across chemistry, physics, and biology topics. Even if your discipline is different, browsing a few examples is a practical way to develop an instinct for what a well-constructed hook looks and feels like. The resource is freely available and carries a Creative Commons licence.
 :::
 
 ### Pacing and Energy
@@ -57,14 +57,14 @@ Effective video presenters tend to speak slightly faster, and with slightly more
 
 ### Signposting
 
-YouTubers are unusually explicit about structure: "In this video, we're going to cover X, Y, and Z" at the start, and "So, to summarise what we've looked at…" at the end, are conventions that feel slightly formulaic but genuinely help viewers orient themselves. For academic content — where the material may be genuinely demanding — this kind of scaffolding is even more valuable than it is in casual educational content.
+YouTubers are unusually explicit about structure: "In this video, we're going to cover X, Y, and Z" at the start, and "So, to summarise what we've looked at…" at the end, are conventions that feel slightly formulaic but genuinely help viewers orient themselves. For academic content, where the material may be genuinely demanding, this kind of scaffolding is even more valuable than it is in casual educational content.
 
 ---
 
 (sec:scripting)=
 ## Scripting Basics
 
-The greenscreen format works best when you know exactly what you are going to say before you start recording. A full script — not just bullet points — is strongly recommended, particularly for your first few recordings. In this section, we will explore the reasoning for this and provide you some useful tips on how to go about scripting a video.
+The greenscreen format works best when you know exactly what you are going to say before you start recording. A full script — *not just bullet points* — is strongly recommended, particularly for your first few recordings. In this section, we will explore the reasoning for this and provide you some useful tips on how to go about scripting a video.
 
 ### Why a Full Script?
 Experience has taught most lecturers that improvisation is actually a superpower for teaching in the classroom, and they would never dream to script every word they were going to say for a lecture. So why would you throw this experience out the window when making an educational video? There are two main reasons for this. First, we previously discussed the importance of the pacing and energy of the speaker in an educational video. The reality is that a written script gives you control over timing, language precision, and structure in a way that improvised delivery cannot. The second reason is best illustrated with the below exercise:
@@ -85,7 +85,7 @@ How did this exercise go? What did you find odd about it? What most people dont 
 
 - **Write for the ear, not the eye.** Read your script aloud as you draft it. Sentences that look fine on the page sometimes feel unnatural when spoken. Shorter sentences and contractions ("you'll" rather than "you will") tend to sound more natural on camera.
 - **One idea per sentence.** Avoid long, nested constructions. If a sentence contains multiple clauses separated by commas, consider breaking it into two sentences.
-- **Aim for approximately 120–150 words per minute** when estimating timing. A five-minute video is roughly 600–750 words of spoken content — much shorter than most people expect.
+- **Aim for approximately 120–150 words per minute** when estimating timing. A five-minute video is roughly 600–750 words of spoken content, much shorter than most people expect.
 - **Mark your emphasis.** Underline or bold the words you want to stress in each sentence. This helps during delivery and ensures key terms land with the weight they deserve.
 - **Build in visual cues.** Note in your script where a new slide should appear, where you want to gesture toward a diagram, or where a pause would be appropriate. Your script and your slide deck should be designed together, not separately.
 
