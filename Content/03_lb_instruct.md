@@ -8,17 +8,17 @@ This chapter is a complete walkthrough of the Lightboard station, from turning o
 
 # Before You Start
 Make sure you have the following with you when you arrive:
-[ ] A USB stick with your PowerPoint presentation (and slide notes, if you plan to use the autocue). The studio computer is not connected to the internet, so bring everything you need with you.
-[ ] Enough free space on the USB stick to also save your recording (recommended to have at least 2 GB for 1 hour of recording time).
-[ ] Any physical materials you want to show under the document camera.
+- [ ] A USB stick with your PowerPoint presentation (and slide notes, if you plan to use the autocue). The studio computer is not connected to the internet, so bring everything you need with you.
+- [ ] Enough free space on the USB stick to also save your recording (recommended to have at least 2 GB for 1 hour of recording time).
+- [ ] Any physical materials you want to show under the document camera.
 
 ```{note} Note
 Lightboard markers are already provided in the studio, you don't need to bring your own. If you don't have a presentation at all, that's fine too: a blank template is available on the desktop so you can write directly on the lightboard.
 ```
 
 # Step-by-step Guidance
-## [ ] Step 1: Starting the System
-[ ] Turn on the WebClip2Go recording system by pressing and holding the main power button.
+## - [ ] Step 1: Starting the System
+- [ ] Turn on the WebClip2Go recording system by pressing and holding the main power button.
 
 __add photo here__
 
