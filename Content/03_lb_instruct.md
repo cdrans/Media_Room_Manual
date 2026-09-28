@@ -17,7 +17,7 @@ Lightboard markers are already provided in the studio, you don't need to bring y
 ```
 
 # Step-by-step Guidance
-## - [ ] Step 1: Starting the System
+## Step 1: Starting the System
 - [ ] Turn on the WebClip2Go recording system by pressing and holding the main power button.
 
 __add photo here__
