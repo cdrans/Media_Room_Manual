@@ -37,17 +37,18 @@ Start a new recoding session by opening the WebClip2Go application and setting u
 
 1. Using the input-computer, click on the *Autonomous WebClip2Go Controller* shortcut to open the WebClip2Go software.
 
-::::{figure}
+:::{figure} ./figures/Webclip2go_openen.gif
 :name: fig-webclip2go_program_startup
-:::{figure} ./figures/Turn_on_the_system.gif
-:label: fig-main-a
-:alt: Image of the input-computer
-Input-computer that is used to startup WebClip2Go.
-:::
-:::{figure} ./figures/Turn_on_the_system.gif
-:label: fig-main-b
 :alt: Animated image showing the shortcut to click on to start the program.
-Application shortcut to start the program
+:width: 60%
 :::
-Overall caption for Figure 1, describing both panels.
-::::
+
+2. Start a new session and choose the *Lightboard format*. WebClip2Go offers four formats. The two labelled “Lightboard” are the ones you want; the other two are for the Green Screen station. “Branded” includes the TU Delft intro animation, “unbranded” skips it.\
+
+:::{figure} ./figures/Lightboard_choose_format.gif
+:name: fig-lightboard_choose_format
+:alt: Animated image showing the dropdown selection menu to choose the WebClip2Go recording format.
+:width: 60%
+:::
+
+
