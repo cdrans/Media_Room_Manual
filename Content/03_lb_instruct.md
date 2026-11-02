@@ -49,8 +49,19 @@ The same camera and computer system is used for the Lightboard and the Greenscre
 :width: 60%
 :::
 
+2. Test the lightboard markers. If there are no markers on the lightboard itself, they can be accessed from the grey storage cabinet behind the camera labeled *Lightboard Supplies*. You can also find additional supplies such as cleaning clothes in this cabinet.
 
-## Step 2: Starting a New Recording Session
+3. Turn on the Lightboard screen and presenter lights using the lightswitches on the side of the lightboard. If the lights do not turn on, please ensure the power cord next to the switches is connected to an electrical socket.
+
+:::{figure} ./figures/lb_lightboard_lighting_instructions.png
+:name: fig-lightboard_lighting_instructions
+:alt: Instructional graphic showing how to turn on the lightboard lights.
+:width: 70%
+:::
+
+4. If necessary, clean the board. To clean the board, use the dry cloth from the supplies bag. It works well once the surface is dry. Don't wet the cloth or use a spray bottle for routine cleaning. It causes the marker residue to smear across the glass instead of lifting off. If a deep clean is needed, use spray cleaner with paper towel instead of the cloth.
+
+## Step 3: Starting a New Recording Session
 Start a new recoding session by opening the WebClip2Go application and setting up the specifics of your recording session. This is broken down further in the sub-steps below:
 
 1. Using the input-computer, click on the *Autonomous WebClip2Go Controller* shortcut to open the WebClip2Go software.
@@ -93,3 +104,82 @@ _Insert Correct Figure Here_
 7. On the PowerPoint Slidedeck Preview Screen, set the Layout of the second slide of the presentation to *Lightboard* as shown below. This ensures that when you click through your presentation, it will ensure that the Lightboard layout is applied to your entire presentation.
 
 _Insert Correct Figure Here_
+
+## Step 4: Preparing the Room and Testing the Setup
+
+There can be a number of settings that may have inadvertently been setup incorrectly in the previous steps, making it important to complete the final room preparations and perform a test recording to ensure lighting, audio, and other settings are correct before you embark on your first recording.
+
+**Final Room Preparations:** 
+- Ensure the slider on the Media Room door is set from "Vrij" to "Niet Storen" to ensure someone does not enter the room while you are recording.
+
+_Insert Correct Figure Here_
+
+- Turn off the main room florecent lights (lightswitch near the door) and ensure all of the window blinds are closed. This should be done after you turn on the WebClip2Go system and the Lightboard lights as otherwise it will be very dark in the room. 
+
+- Adjust the camera to eye level using the arrow controls on the desk. This can also be done/tweaked during the test recording.
+
+_Insert Correct Figure Here_
+
+**Making a Test Recording:**
+Before recording the full presentation, make a short test recording and check the following:
+- The camera is at the right height. You shouldn't see the edges of the lightboard in frame.
+- Your writing is clearly visible and you're not blocking it.
+- The lighting mode is correct.
+- The board is completely clean, with no leftover marker stains.
+- The audio was recorded. Check that your mic picked up sound.
+
+Once you complete the test recording, you can play it on the input-computer from the save location you specified during setup.
+
+## Step 5: Record
+Recording of your lightboard session is controlled with a clicker and by the powerpoint slide template. Every click of the clicker will progress through the PowerPoint slide deck and once the end of the presentation is reached, the recording will be stopped.
+
+- On the clicker, press the black button once to start recording. This begins the countdown and, if selected, the intro animation.
+
+:::{figure} ./figures/Black_Button.gif
+:name: fig-Black_Button
+:alt: Animated image showing the clicker and the black button used to control the recording.
+:width: 60%
+:::
+
+```{warning} Red Button = Cancel Recording!
+Never press the red button on the clicker during recording. It stops the whole recording. Your recording is only saved automatically after the final slide, so pressing red before that point will result in your entire recording being deleted!
+```
+
+- Use the same black button to move to the next slide while presenting.
+
+```{note} When Using the Intro Slide Format...
+If you selected the format with the intro slide, wait until it has finished before you start speaking. The camera only switches on once you click past it. Once you reach the end of your presentation, an outro video plays automatically.
+```
+
+- Finish your recording. Present through to the last slide. The recording stops and saves automatically once you reach it.
+
+```{note} Cleaning the Board
+Erasing the entire board while recording is difficult, so don't try to do it live. If you need to clear it, stop the recording, clean the board, and continue with a second, separate recording. Small erases along the way, such as cleaning up a single word or line, are fine to do during recording.
+```
+
+## Step 6: Finishing Up
+Once your recording is complete, do the following:
+
+1. Review your recording. Quickly check the sound, the slide timing, and that you're clearly visible. If something's wrong, you can start a new session and record again.
+
+2. Save the video to your own USB storage device. The input-computer hard drive will be periodically be cleaned to preserve space, thus it is important that you transfer the recordings to your own storage device before leaving. Unfortunately, the input-computer is not connected to the internet, so you can only transfer files using an external usb storage device.
+
+```{note} Forgot a USB Storage Device?
+If you forgot your own USB stick, there is a spare one kept in the supplies bag that can be used for transferring your file in a pinch. Please delete your files from it afterwards. There is currently no lock on the supplies storage, so don't leave anything on it that you wouldn't want others to see.
+```
+
+3. Record again if needed. Use “Edit session” to upload a new PowerPoint, change the layout, or start another recording.
+
+4.	Shut down. Remove your USB stick and delete your video from the computer, including emptying the recycle bin. Put all equipment back in its place, move the lightboard back to its original position, and make sure you've used the correct markers.
+
+5. Before leaving, turn of the WebClip2Go system by pressing and holding the system power button (see step 1). 
+
+6. Switch the door label back to "Vrij" on your way out of the room.
+
+## Troubleshooting
+- No sound in your recording: this is a technical issue, call down to the desk and ask for someone from the New Media Centre.
+- No markers available: ask for new ones at the Teaching Lab desk.
+- Recording starts too early: wait until the intro animation has finished before you begin talking.
+- Text cut off in the autocue: add extra empty lines after your title slide so the first spoken lines appear correctly.
+- Lightboard writing not visible: check that the text light is switched on and test your markers before recording.
+- Anything else: ask at the front desk downstairs.
