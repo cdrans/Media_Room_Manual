@@ -18,7 +18,7 @@ Lightboard markers are already provided in the studio, you don't need to bring y
 
 # Step-by-step Guidance
 ## Step 1: Starting the System
-- [ ] Turn on the WebClip2Go recording system by pressing and holding the main power button.
+Turn on the WebClip2Go recording system by pressing and holding the main power button.
 
 :::{figure} ./figures/Turn_on_the_system.gif
 :name: fig-webclip2go_powerup
@@ -32,4 +32,22 @@ Pressing and holding the main power button will initiate the main startup proced
 The input-computer functions on a generic profile and thus does not require you to login with your NetID and password. As a consequence of utilizing a generic profile, the computer is isolated from the TUDelft network for security reasons and does not have internet access. This means all files (ie: ppt presentations, finished recordings) can only be uploaded or downloaded from the computer using a USB storage device.
 ```
 
+## Step 2: Starting a New Recording Session
+Start a new recoding session by opening the WebClip2Go application and setting up the specifics of your recording session. This is broken down further in the sub-steps below:
 
+1. Using the input-computer, click on the *Autonomous WebClip2Go Controller* shortcut to open the WebClip2Go software.
+
+::::{figure}
+:name: fig-webclip2go_program_startup
+:::{figure} ./figures/Turn_on_the_system.gif
+:label: fig-main-a
+:alt: Image of the input-computer
+Input-computer that is used to startup WebClip2Go.
+:::
+:::{figure} ./figures/Turn_on_the_system.gif
+:label: fig-main-b
+:alt: Animated image showing the shortcut to click on to start the program.
+Application shortcut to start the program
+:::
+Overall caption for Figure 1, describing both panels.
+::::
