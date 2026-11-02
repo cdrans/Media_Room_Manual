@@ -20,7 +20,11 @@ Lightboard markers are already provided in the studio, you don't need to bring y
 ## Step 1: Starting the System
 - [ ] Turn on the WebClip2Go recording system by pressing and holding the main power button.
 
-__add photo here__
+:::{figure} ./figures/Turn_on_the_system.gif
+:name: fig-webclip2go_powerup
+:alt: Animation of pressing the powerup sequence button for the lightboard recording system
+:width: 70%
+:::
 
 Pressing and holding the main power button will initiate the main startup procedure for the WebClip2Go system. A voice recording will indicate that this procedure has started and will remind you of the duration of this procedure (approximately 3 min). During this startup procedure, recording lights, microphones, and cameras will be activated and the computer (herby refered to as the *input-computer*) at the end of the table in the studio will startup. It is through this input-computer that users will interact with the system.
 
