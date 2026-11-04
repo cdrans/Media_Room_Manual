@@ -80,30 +80,45 @@ Start a new recoding session by opening the WebClip2Go application and setting u
 :width: 60%
 :::
 
-3. Select your PowerPoint file. The system allows you to use a Powerpoint slide deck to overlay images and text on top of your session as demonstrated in [this video](https://www.youtube.com/watch?v=qJUuI49Noio). For this overlay to work, the background colour of your sides must be set to (RGB 0,255,0) for proper background removal. Upload your presentation from your storage device **OR** use the blank Lightboard PowerPoint template located on the desktop of the input-computer. Choose where the recording should be saved when prompted.
+3. Select your PowerPoint file (field highlighted with yellow arrow below). The system allows you to use a Powerpoint slide deck to overlay images and text on top of your session as demonstrated in [this video](https://www.youtube.com/watch?v=qJUuI49Noio). For this overlay to work, the background colour of your sides must be set to (RGB 0,255,0) for proper background removal. Upload your presentation from your storage device **OR** use the blank Lightboard PowerPoint template located on the desktop of the input-computer. Choose where the recording should be saved when prompted.
 
-_Insert Correct Figure Here_
-:::{figure} ./figures/Lightboard_choose_format.gif
-:name: fig-lightboard_choose_format
-:alt: Animated image showing the dropdown selection menu to choose the WebClip2Go recording format.
-:width: 60%
+:::{figure} ./figures/lbi_powerpoint_file.png
+:name: fig-lbi_powerpoint_file
+:alt: Image of WebClip2Go screen with a yellow arrow highlighting the field to click and navigate to the desired PowerPoint file to be used in the Lightboard session
+:width: 70%
 :::
 
 4. Choose the layout for the Teleprompter Screen (visible to you while recording). For recording a Lightboard session, it is recommended that you choose the option *Preview in main part, cue text at right*. This will ensure that the largest window in the teleprompter (main part) shows a live view of what the camera is recording. The Cue Text window on the right will show the notes section of the Powerpoint slide, allowing you to have some notes visible while looking at the camera.
 
-_Insert Correct Figure Here_
+:::{figure} ./figures/lbi_prompter_layout.png
+:name: fig-lbi_prompter_layout
+:alt: Image of WebClip2Go screen with a yellow arrow highlighting the drop-down menu to specify the layout of the autocue preview.
+:width: 60%
+:::
 
 5. Turn on speech recognition if required. This option is generally not required for a lightboard session as you are not typically reading word-for-word of an autocue when recording such a video. However, it is an option, so if you need the autocue to scroll through your script while you read it, you can turn this option on.
 
-_Insert Correct Figure Here_
+:::{figure} ./figures/lbi_speech_recognition.png
+:name: fig-lbi_speech_recognition
+:alt: Image of WebClip2Go screen showing speech recognition for autocue controls
+:width: 60%
+:::
 
 6. After clicking next to complete the previous screen, simply click through the participant details screen (shown below) by pressing "Finished" as this screen is not relevant for a Lightboard session.
 
-_Insert Correct Figure Here_
+:::{figure} ./figures/lbi_skip.png
+:name: fig-lbi_skip
+:alt: Image of WebClip2Go screen with speaker detail fields. These fields are not used in the Lightboard and can be skipped.
+:width: 80%
+:::
 
 7. On the PowerPoint Slidedeck Preview Screen, set the Layout of the second slide of the presentation to *Lightboard* as shown below. This ensures that when you click through your presentation, it will ensure that the Lightboard layout is applied to your entire presentation.
 
-_Insert Correct Figure Here_
+:::{figure} ./figures/lbi_powerpoint_slide_layout.png
+:name: fig-lbi_powerpoint_slide_layout
+:alt: Image of WebClip2Go screen that provides a preview of the powerpoint slides. Drop-down menu where the slide layout can be changed is shown.
+:width: 80%
+:::
 
 ## Step 4: Preparing the Room and Testing the Setup
 
@@ -112,13 +127,21 @@ There can be a number of settings that may have inadvertently been setup incorre
 **Final Room Preparations:** 
 - Ensure the slider on the Media Room door is set from "Vrij" to "Niet Storen" to ensure someone does not enter the room while you are recording.
 
-_Insert Correct Figure Here_
+:::{figure} ./figures/Do_not_disturb.gif
+:name: fig-Do_not_disturb
+:alt: Animation of the slider on the media room door where users can indicate that a recording session is taking place and that they should not enter the room.
+:width: 60%
+:::
 
 - Turn off the main room florecent lights (lightswitch near the door) and ensure all of the window blinds are closed. This should be done after you turn on the WebClip2Go system and the Lightboard lights as otherwise it will be very dark in the room. 
 
 - Adjust the camera to eye level using the arrow controls on the desk. This can also be done/tweaked during the test recording.
 
-_Insert Correct Figure Here_
+:::{figure} ./figures/lbi_height_adjust.png
+:name: fig-lbi_height_adjust
+:alt: Height adjustment buttons for adjusting the height of the camera setup.
+:width: 70%
+:::
 
 **Making a Test Recording:**
 Before recording the full presentation, make a short test recording and check the following:
@@ -138,7 +161,7 @@ Recording of your lightboard session is controlled with a clicker and by the pow
 :::{figure} ./figures/Black_Button.gif
 :name: fig-Black_Button
 :alt: Animated image showing the clicker and the black button used to control the recording.
-:width: 60%
+:width: 30%
 :::
 
 ```{warning} Red Button = Cancel Recording!
